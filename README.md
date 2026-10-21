@@ -1,16 +1,15 @@
-## Hi there 👋
+# Matt Skrzypek
 
-<!--
-**mattskrzypek/mattskrzypek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Security Analyst | SOC, Security Operations & Incident Response**
 
-Here are some ideas to get you started:
+Approximately seven years in cybersecurity, with a focus on security operations and incident response. I build practical investigation tools, automate Linux workflows, and develop self-hosted applications through my FatPigeon projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Project | Focus |
+| --- | --- |
+| [HomingPigeon](https://github.com/mattskrzypek/HomingPigeon) | Browser-local email-header investigation, delivery traces, and deliberate OSINT lookups. |
+| [Linux workstation automation](https://github.com/mattskrzypek/dotfiles) | Bash/Python configuration management, validation, backups, restoration, and CI. |
+| [FatPigeon homelab](https://github.com/mattskrzypek/HomingPigeon/blob/main/docs/homelab.md) | Self-hosting, application deployment, Linux administration, and security design. |
+
+[Explore my full project portfolio](https://github.com/mattskrzypek/HomingPigeon/blob/main/docs/portfolio.md), including Crackers, Coop, MTG, and FPV/maker projects.
+
+**Current interests:** investigation tooling, practical automation, container security, and AI security.
